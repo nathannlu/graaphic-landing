@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.05dce0f3.chunk.js",
-    "main.js.map": "/static/js/main.05dce0f3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18454baf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18454baf.js.map",
-    "static/js/2.42d9d460.chunk.js": "/static/js/2.42d9d460.chunk.js",
-    "static/js/2.42d9d460.chunk.js.map": "/static/js/2.42d9d460.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.499b8903f63e7e8cee13586e1fcf9c0a.js": "/precache-manifest.499b8903f63e7e8cee13586e1fcf9c0a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.42d9d460.chunk.js.LICENSE.txt": "/static/js/2.42d9d460.chunk.js.LICENSE.txt"
+    "main.js": "/graaphic-landing/static/js/main.3fc87c86.chunk.js",
+    "main.js.map": "/graaphic-landing/static/js/main.3fc87c86.chunk.js.map",
+    "runtime-main.js": "/graaphic-landing/static/js/runtime-main.783bcb05.js",
+    "runtime-main.js.map": "/graaphic-landing/static/js/runtime-main.783bcb05.js.map",
+    "static/js/2.42d9d460.chunk.js": "/graaphic-landing/static/js/2.42d9d460.chunk.js",
+    "static/js/2.42d9d460.chunk.js.map": "/graaphic-landing/static/js/2.42d9d460.chunk.js.map",
+    "index.html": "/graaphic-landing/index.html",
+    "precache-manifest.53b9448e028719723722a8cbceeceac2.js": "/graaphic-landing/precache-manifest.53b9448e028719723722a8cbceeceac2.js",
+    "service-worker.js": "/graaphic-landing/service-worker.js",
+    "static/js/2.42d9d460.chunk.js.LICENSE.txt": "/graaphic-landing/static/js/2.42d9d460.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18454baf.js",
+    "static/js/runtime-main.783bcb05.js",
     "static/js/2.42d9d460.chunk.js",
-    "static/js/main.05dce0f3.chunk.js"
+    "static/js/main.3fc87c86.chunk.js"
   ]
 }
